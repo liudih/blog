@@ -35,3 +35,11 @@ twitter:
 google_plus:
 fb_admins:
 fb_app_id:
+
+
+# Deployment
+## Docs: https://hexo.io/docs/deployment.html
+deploy:
+  type: git
+  repo: git@github.com:liudih/blog.git
+  branch: master
