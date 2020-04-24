@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: simon77
+title: simon's blog
 subtitle: 'xxx22'
 description: 'dddd'
 keywords: sdfsdf
@@ -94,7 +94,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 
 # Deployment
@@ -103,3 +103,6 @@ deploy:
   type: git
   repo: git@github.com:liudih/blog.git
   branch: gh-pages
+  # type: git
+  # repo: git@gitee.com:liudih/blog.git
+  # branch: gh-pages
