@@ -105,5 +105,5 @@ deploy:
   repo: git@github.com:liudih/blog.git
   branch: gh-pages
   # type: git
-  # repo: git@gitee.com:liudih/blog.git
+  # repo: git@gitee.com:liudih/liudih.git
   # branch: gh-pages
