@@ -204,7 +204,10 @@ links_settings:
   layout: block
 
 links:
-  #Title: http://yoursite.com
+  # Title: http://yoursite.com
+  tang.su: https://tang.su/
+  diygod.me: https://diygod.me/
+  www.yunyoujun.cn: https://www.yunyoujun.cn/note/use-cdn-speed-up-site/
 
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
