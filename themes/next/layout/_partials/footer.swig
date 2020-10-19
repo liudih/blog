@@ -59,7 +59,7 @@
 {%- endif %}
 <div>
   <a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral" class="theme-link" rel="noopener" target="_blank" style="border:0;">
-      <img src="https://image.tang.su/logo/upyun_logo.png" width="50" style="display:inline;vertical-align: middle;"></a> 提供CDN服务
+      <img src="/images/upyun_logo.png" width="50" style="display:inline;vertical-align: middle;"></a> 提供CDN服务
 </div>
 
 {{- next_inject('footer') }}

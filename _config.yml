@@ -4,12 +4,12 @@
 
 # Site
 title: simon's blog
-subtitle: 'xxx22'
-description: 'dddd'
-keywords: sdfsdf
-author: John Doe
+subtitle: '一个废青的日常'
+description: '就这'
+keywords: 学习
+author: dicky chen
 language: zh-CN
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
