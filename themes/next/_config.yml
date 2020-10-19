@@ -181,7 +181,7 @@ social:
   E-Mail: mailto:admin@xykzs.com || fa fa-envelope
   hexo-doc: https://hexo.io/zh-cn/docs/github-pages || fab fa-github
   travis-ci: https://travis-ci.com/ || fab fa-weibo
-  my-cdn: https://console.upyun.com/services/cdn/
+  my-cdn: https://console.upyun.com/services/cdn/ || fab fa-google
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
   #Twitter: https://twitter.com/yourname || fab fa-twitter
