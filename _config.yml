@@ -97,6 +97,12 @@ ignore:
 theme: next
 #theme: hexo-theme-sagiri
 
+# Algolia Search API Key
+algolia:
+  applicationID: 'VC4ER0NZI7'
+  apiKey: 'd344d743b4b4d71a5956c958a00e208c'
+  indexName: 'blog_index'
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
