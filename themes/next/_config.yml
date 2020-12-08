@@ -182,6 +182,7 @@ social:
   hexo-doc: https://hexo.io/zh-cn/docs/github-pages || fab fa-github
   travis-ci: https://travis-ci.com/ || fab fa-weibo
   my-cdn: https://console.upyun.com/services/cdn/ || fab fa-google
+  url刷新: https://console.upyun.com/purge/purge_url/ || fab fa-twitter
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
   #Twitter: https://twitter.com/yourname || fab fa-twitter
