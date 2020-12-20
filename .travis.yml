@@ -9,6 +9,10 @@ branches:
 script:
   - hexo clean
   - hexo generate # generate static files
+  - export HEXO_ALGOLIA_INDEXING_KEY=33e0002d5fbd5bd9a27b878cb8e5a617
+  - hexo algolia
+  - pwd
+  - echo "结束》》》========"
 deploy:
   provider: pages
   skip-cleanup: true

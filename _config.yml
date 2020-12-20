@@ -99,9 +99,9 @@ theme: next
 
 # Algolia Search API Key
 algolia:
-  applicationID: 'VC4ER0NZI7'
-  apiKey: 'd344d743b4b4d71a5956c958a00e208c'
-  indexName: 'blog_index'
+  applicationID: 'P6AW12YAIO'
+  apiKey: '33e0002d5fbd5bd9a27b878cb8e5a617'
+  indexName: 'blog_pangyu_net'
 
 
 # Deployment
