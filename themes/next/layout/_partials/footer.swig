@@ -59,7 +59,7 @@
 {%- endif %}
 <div>
   <a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral" class="theme-link" rel="noopener" target="_blank" style="border:0;">
-      本网站由 <img src="/images/upyun_logo.png" width="50" style="display:inline;vertical-align: middle;"> 提供CDN加速服务/云存储服务 </a> 
+      本网站由 <img src="/images/upyun_logo.png" width="50" style="display:inline;vertical-align: middle;"> 提供CDN加速服务/云存储服务 </a>  
 </div>
 
 {{- next_inject('footer') }}
