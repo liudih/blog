@@ -41,6 +41,19 @@
         </{%- if is_index %}h2{% else %}h1{%- endif %}>
 
         <div class="post-meta">
+          <!-- 新增置顶功能 -->
+          {% if post.top %}
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-thumbtack"></i>
+              </span>
+              <span class="post-meta-item-text"><font color="7D26CD">置顶</font></span>
+            </span>
+            <!-- <i class="fa fa-thumbtack"></i>
+            <font color="RED">置顶</font>
+            <span class="post-meta-divider">|</span> -->
+          {% endif %}
+
 
           {%- set date_diff = date(post.date) != date(post.updated) %}
           {%- set time_diff = time(post.date) != time(post.updated) %}
