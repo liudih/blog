@@ -2,7 +2,7 @@
 title: to do list 
 date: 2021-05-10 18:12:57
 tags:
-categories:
+categories: 2
 ---
 
 1. python ai  对话 、图片识别
