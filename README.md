@@ -19,4 +19,12 @@ hexo 提供支持
 [blog.pangyu.net](blog.pangyu.net)
 
 
-1
+
+说明：
+
+* 发文章：hexo new "My New Post"
+* 本地跑：hexo server
+* 生成html: hexo generate
+* 部署： hexo deploy
+* 生成html并部署： hexo g -d
+
