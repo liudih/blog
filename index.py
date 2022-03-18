@@ -1,6 +1,13 @@
 #!/usr/bin/env python
 # encoding: utf-8
 '''
+
+工具：
+利用python对，hexo生成的文章进行按年月文件夹去分类。
+
+https://github.com/oytoyt/handleHexoOldFile
+将index.py放到hexo目录下，执行python index.py即可
+
 @author: ouyanting
 @contact: oyt@ouyanting.com
 @file: index.py
